@@ -1,7 +1,7 @@
 // Mariia Grushina
 // mary23386@csu.fullerton.edu
 // @mary23386
-// Partners: @AlexanderRivero05
+// Partners: @AlexanderRivero05, @airnearn
 
 #include <iostream>
 #include <string>
